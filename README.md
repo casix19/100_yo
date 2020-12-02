@@ -1,2 +1,2 @@
-Here is a readme text"# 100_yo" 
+First personal project with graphic interface.
 "# 100_yo" 
